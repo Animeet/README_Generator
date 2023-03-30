@@ -51,7 +51,6 @@ const questions = [
         message: "What command should be ran to test the project?",
         name: "test"
     },
-
     //License Section
     {
         type: "list",
