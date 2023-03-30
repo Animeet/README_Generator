@@ -30,13 +30,13 @@ const questions = [
     // Installation Section
     {
         type: "input",
-        message: "What command should be ran to install dependencies?",
+        message: "How can a User install this application?",
         name: "install"
     },
     // Usage Section
     {
         type: "input",
-        message: "What does the user need to know about using the repo?",
+        message: "What does the user need to know about using this application?",
         name: "usage"
     },
     // Contribution Section
